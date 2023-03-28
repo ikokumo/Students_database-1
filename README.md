@@ -1,0 +1,1 @@
+Created a Student Database and Columns using PostgreSQL and wrote a Bash script that enters information into the Database from a csv file then a bash script for querying the database for useful statistics.
